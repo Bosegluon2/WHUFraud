@@ -1,0 +1,17 @@
+doi: 10.27379/d.cnki.gwhdu.2022.001714 # 若未提供可设为null
+title: "短视频客体化经历对女大学生进食行为问题的影响研究"
+authors: # 若案例涉及多位作者，需全部列出，但仅在whu_authors字段中显示武汉大学所属作者
+  - 刘琳
+advisor:
+  - 戴正清
+journal: 硕士论文
+year: 2022
+url: https://vpn.hufe.edu.cn/https/77726476706e69737468656265737421fbf952d2243e635930068cb8/kcms2/article/abstract?v=iLvembebNjxqVfMY_vLfsIyGY1r0SgJxpj9nxY0pxyiKqivFQnr8C07A8g94D2TMDjbhvlOiMq45cRzUGY2WRAZgEHKMJYBRZ9dqT6Jy-XdePOxot_M7hHYzvrj1Td9v2sNBAn_g_DEoaXJhlNcF6dt-84W7lvSXSYxyiZ7yIKZVnLDOsb4AhQ&uniplatform=NZKPT&language=CHS&captchaId=a5619d09-c5e7-4046-9afc-1b0de6d5d7b6
+date_added: 2025-08-04
+submitter: 用户名 # 这个字段可为空，若为代提交则需标注原提交者
+whu_authors: # 至少包含一项
+  - 刘琳
+affiliation_proof: # 证明武汉大学所属关系的链接或文件
+  - evidence/关系证明.png（证据/所属关系截图.png）
+misconduct_type: # 选择：plagiarism（抄袭）/ fabrication（捏造）/ image_manipulation（图像篡改）/
+  - other（其他） #        duplicate_publication（重复发表）/ authorship（署名问题）/ other（其他）             # 可多选
